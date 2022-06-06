@@ -17,3 +17,4 @@ Basically I am an amateur programmer that finds a way to make things work. I hop
 * MS in Mechanical Engineering
 * Top 10 in 2019 Physionet Challenge
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsweely)](https://github.com/anuraghazra/github-readme-stats)
